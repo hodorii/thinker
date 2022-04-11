@@ -1,37 +1,13 @@
 ## Welcome to Thinker
 
-You can use the [editor on GitHub](https://github.com/hodorii/thinker/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Wishes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hodorii/thinker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Using
+1. Koolman 알루미늄 롤테이블 S white (40x35x31), 900g
+2. 바로쿡 BC-007 1200ml, 185x135x100 mm, 650g
+3. KEEP 플라이체어 미니 스카이블루 55x54 cm, 시트높이 35cm, 수납 35x12, 890g
+4. 장사부 접이식 등산스틱 롱 36cm, 110-130cm, 550g
+5. 캠핑용 대형 주철그리들 48x44x2, 5kg
+6. 힐맨 얼리버드 업 스마트 텐트 220x130x110(양쪽전실 50), 수납 45x15, 2.3kg
+7. 힐맨 클라우드 업 스마트 텐트 220x130x110(이너), 280x140x115, 수납 45x15, 1.95kg(그라운드시트제외)
+8. Granite gear blaze 60 black 23" X 13" X 9"(58.42x33x22.86) Regular Torso - 18-21 inches/ 46-53.5 cm; Liters 60; 3660 Cubic Inches; 1.36kg
